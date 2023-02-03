@@ -1,4 +1,4 @@
-African_hack
+#African_hack
 African haha katone
 
 Пока собирались, Африканцы набили лб плотненько, уже не по 0,5)) тут регаемся https://zindi.africa/competitions/zindi-new-user-engagement-prediction-challenge базлайн я закинул скиньте еще мне ники, я нас в тиму добавлю работаем короче

@@ -28,3 +28,9 @@ African haha katone
 'badge_HYIO', 'badge_MLPD', 'Applied To Job', 'Votes (Up/Down)', 'Transferred Team Leadership', 'badge_PLDS', 'Changed Password', 'Deleted Team', 'Accepted Team Leadership Transfer',
 
 'Revoked Team Leadership Transfer', 'Report Something', 'Kicked Member From Team', 'Left Team', '$create_alias' + uniq blog, job, comp
+
+
+По поводу сабмитов
+там всего 2 колонки
+User_ID_Next_month_Activity и Active
+Если че чекаем базлайн
